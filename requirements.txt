@@ -1,0 +1,12 @@
+argparse
+binascii
+hashlib
+random
+socket
+SocketServer
+struct
+uuid
+rpcBind
+rpcRequest
+MSRPCHeader
+rpcBase
